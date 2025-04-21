@@ -1,7 +1,8 @@
 # 🔍 cscan – A Simple Port Scanner in C
 ## Version: 1.0
 
-A simple lightweight port scanner made in **C**, inspired by **Nmap**. A project made by a C and ethical hacking enthusiast!
+A simple lightweight port scanner made in **C**, inspired by **Nmap**. A project made by a C and ethical hacking enthusiast for fun and deeper understaning of networking!
+
 This project is a work in progress and has a **long journey** ahead before it reaches completion.
 
 **WARNING:**
