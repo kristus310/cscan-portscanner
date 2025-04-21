@@ -13,7 +13,8 @@ This project is a work in progress and has a **long journey** ahead before it re
 - Simple CLI usage
 - Written from scratch in C
 - Lightweight and fast
-- A TCP Scan
+- For now, **cscan** only supports TCP Scan
+    - More scans are expected to be added in the next update    
 
 ## 📅 Future plans
 - **UDP Scan** - Adds support for scanning UDP ports
