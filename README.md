@@ -27,9 +27,11 @@ Port types:
 ## Download instructions
 ### Dependencies
 - **CMake** and **GCC**:
-  - sudo apt update
-  - sudo apt install cmake gcc
+- ```bash
+  sudo apt update
+  sudo apt install cmake gcc
 ### Steps
+```bash
 git clone https://github.com/kristus310/cscan-portscanner.git
 cd cscan-portscanner
 mkdir build
