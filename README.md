@@ -49,6 +49,7 @@ This project is a work in progress and has a **long journey** ahead before it re
 
 ## 🏅 Credits
 Inspiration: This project was inspired by the powerful port scanning tool, Nmap.
+
 Contributors:
     Kristián "kristus310" Botek – Creator and Maintainer
     
